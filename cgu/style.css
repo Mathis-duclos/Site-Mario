@@ -1,0 +1,218 @@
+.cgu,
+.cgu * {
+  box-sizing: border-box;
+}
+.cgu {
+  width: 1440px;
+  height: 5110px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 31.77083432674408%,
+    rgba(255, 252, 188, 0.2) 60.9375%,
+    rgba(255, 252, 188, 0.5) 78.64583134651184%,
+    rgba(255, 252, 188, 0.5) 100%
+  );
+  width: 1440px;
+  position: absolute;
+  left: calc(50% - 720px);
+  bottom: 0px;
+  top: 0px;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bouton-rectangle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 211px);
+  bottom: 63px;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 421px;
+  height: 109px;
+  position: relative;
+  overflow: visible;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-42 {
+  flex-shrink: 0;
+  width: 384px;
+  height: 72px;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  overflow: visible;
+}
+.retour {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  width: 384px;
+  height: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 113px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1294px;
+  position: absolute;
+  left: 73px;
+  top: 377px;
+}
+.titre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.article-1-objet-les-pr-sentes-cgu-ou-conditions-g-n-rales-d-utilisation-encadrent-juridiquement-l-utilisation-des-services-du-site-ci-apr-s-d-nomm-le-site-constituant-le-contrat-entre-la-soci-t-l-utilisateur-l-acc-s-au-site-doit-tre-pr-c-d-de-l-acceptation-de-ces-cgu-l-acc-s-cette-plateforme-signifie-l-acceptation-des-pr-sentes-cgu-article-2-mentions-l-gales-le-site-permet-d-acc-der-gratuitement-aux-services-suivants-informations-sur-le-jeu-super-mario-bros-wonder-sous-forme-de-wiki-le-site-est-accessible-gratuitement-depuis-n-importe-o-par-tout-utilisateur-disposant-d-un-acc-s-internet-tous-les-frais-n-cessaires-pour-l-acc-s-aux-services-mat-riel-informatique-connexion-internet-sont-la-charge-de-l-utilisateur-l-acc-s-au-site-peut-tre-interrompu-ou-suspendu-par-l-diteur-sans-pr-avis-ni-justification-article-3-collecte-des-donn-es-le-site-ne-collecte-pas-d-informations-sur-les-utilisateurs-des-fins-commerciales-article-4-responsabilit-bien-que-les-informations-publi-es-sur-le-site-soient-r-put-es-fiables-le-site-se-r-serve-la-facult-d-une-non-garantie-de-la-fiabilit-des-sources-les-informations-diffus-es-sur-le-site-sont-pr-sent-es-titre-purement-informatif-et-sont-sans-valeur-contractuelle-en-d-pit-des-mises-jour-r-guli-res-la-responsabilit-du-site-ne-peut-tre-engag-e-en-cas-de-modification-des-dispositions-administratives-et-juridiques-apparaissant-apr-s-la-publication-il-en-est-de-m-me-pour-l-utilisation-et-l-interpr-tation-des-informations-communiqu-es-sur-la-plateforme-le-site-d-cline-toute-responsabilit-concernant-les-ventuels-virus-pouvant-infecter-le-mat-riel-informatique-de-l-utilisateur-apr-s-l-utilisation-ou-l-acc-s-ce-site-le-site-ne-peut-tre-tenu-pour-responsable-en-cas-de-force-majeure-ou-du-fait-impr-visible-et-insurmontable-d-un-tiers-la-garantie-totale-de-la-s-curit-et-la-confidentialit-des-donn-es-n-est-pas-assur-e-par-le-site-cependant-le-site-s-engage-mettre-en-uvre-toutes-les-m-thodes-requises-pour-le-faire-au-mieux-article-5-liens-hypertextes-le-site-peut-tre-constitu-de-liens-hypertextes-en-cliquant-sur-ces-derniers-l-utilisateur-sortira-de-la-plateforme-cette-derni-re-n-a-pas-de-contr-le-et-ne-peut-pas-tre-tenue-responsable-du-contenu-des-pages-web-relatives-ces-liens-article-6-dur-e-du-contrat-le-pr-sent-contrat-est-valable-pour-une-dur-e-ind-termin-e-le-d-but-de-l-utilisation-des-services-du-site-marque-l-application-du-contrat-l-gard-de-l-utilisateur-article-7-droit-applicable-et-juridiction-comp-tente-le-pr-sent-contrat-est-soumis-la-l-gislation-fran-aise-l-absence-de-r-solution-l-amiable-des-cas-de-litige-entre-les-parties-implique-le-recours-aux-tribunaux-fran-ais-comp-tents-pour-r-gler-le-contentieux {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1265px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}

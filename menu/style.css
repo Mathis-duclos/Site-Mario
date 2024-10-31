@@ -1,0 +1,453 @@
+.menu,
+.menu * {
+  box-sizing: border-box;
+}
+.menu {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-50 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 1169px;
+  position: absolute;
+  left: 135px;
+  top: 339px;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.boutons-rond {
+  flex-shrink: 0;
+  width: 224.14px;
+  height: 224.14px;
+  position: relative;
+}
+.bouton-rond {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.ellipse-3 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 130.98px;
+  height: 130.98px;
+  position: absolute;
+  right: -5.55%;
+  left: 47.11%;
+  width: 58.44%;
+  bottom: 36.6%;
+  top: 4.96%;
+  height: 58.44%;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+}
+.renders {
+  position: absolute;
+  right: 26.83%;
+  left: 18.74%;
+  width: 54.43%;
+  bottom: 31.74%;
+  top: 12.49%;
+  height: 55.77%;
+}
+.daisy-char-select-smbw-1 {
+  position: absolute;
+  right: 52.2%;
+  left: 0%;
+  width: 47.8%;
+  bottom: 23.4%;
+  top: 0%;
+  height: 76.6%;
+}
+.peach-char-select-smbw-1 {
+  position: absolute;
+  right: 12.09%;
+  left: 40.11%;
+  width: 47.8%;
+  bottom: 23.4%;
+  top: 0%;
+  height: 76.6%;
+}
+.luigi-char-select-smbw-1 {
+  position: absolute;
+  right: 35.71%;
+  left: 16.48%;
+  width: 47.8%;
+  bottom: 0%;
+  top: 23.4%;
+  height: 76.6%;
+}
+.mario-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 52.2%;
+  width: 47.8%;
+  bottom: 0%;
+  top: 23.4%;
+  height: 76.6%;
+}
+.texte {
+  flex-shrink: 0;
+  width: 108px;
+  height: 42px;
+  position: relative;
+}
+.corps {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: absolute;
+  right: -58.33%;
+  left: -57.41%;
+  width: 215.74%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.boutons-rond2 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.smbw-icon-petal-isles-1 {
+  position: absolute;
+  right: 23.91%;
+  left: 6.52%;
+  width: 69.57%;
+  bottom: 24.28%;
+  top: 1.73%;
+  height: 73.99%;
+}
+.smbw-icon-pipe-rock-plateau-1 {
+  position: absolute;
+  right: 4.89%;
+  left: 17.93%;
+  width: 77.17%;
+  bottom: 2.31%;
+  top: 15.61%;
+  height: 82.08%;
+}
+.corps2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: absolute;
+  right: 5.56%;
+  left: 5.56%;
+  width: 88.89%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nintendo-switch-super-mario-bros-wonder-badge-icons-copie-2-1 {
+  position: absolute;
+  right: 0%;
+  left: 25.41%;
+  width: 74.59%;
+  bottom: 0%;
+  top: 23.3%;
+  height: 76.7%;
+}
+.nintendo-switch-super-mario-bros-wonder-badge-icons-copie-1 {
+  position: absolute;
+  right: 25.41%;
+  left: 0%;
+  width: 74.59%;
+  bottom: 23.3%;
+  top: 0%;
+  height: 76.7%;
+}
+.corps3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: absolute;
+  right: -4.63%;
+  left: -3.7%;
+  width: 108.33%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.toad {
+  position: absolute;
+  inset: 0;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-5-1 {
+  position: absolute;
+  right: 0%;
+  left: 36.57%;
+  width: 63.43%;
+  bottom: 0%;
+  top: 7.35%;
+  height: 92.65%;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-1-1 {
+  position: absolute;
+  right: 8.56%;
+  left: 45.13%;
+  width: 46.31%;
+  bottom: 25.02%;
+  top: 7.35%;
+  height: 67.63%;
+}
+.mario {
+  position: absolute;
+  inset: 0;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-4-1 {
+  position: absolute;
+  right: 18.12%;
+  left: 18.45%;
+  width: 63.43%;
+  bottom: 3.43%;
+  top: 3.92%;
+  height: 92.65%;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-2-1 {
+  position: absolute;
+  right: 27%;
+  left: 27.17%;
+  width: 45.83%;
+  bottom: 28.45%;
+  top: 3.92%;
+  height: 67.63%;
+}
+.yoshi {
+  position: absolute;
+  inset: 0;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-6-1 {
+  position: absolute;
+  right: 36.57%;
+  left: 0%;
+  width: 63.43%;
+  bottom: 7.35%;
+  top: 0%;
+  height: 92.65%;
+}
+.nintendo-switch-super-mario-bros-wonder-standee-icons-copie-3-1 {
+  position: absolute;
+  right: 44.81%;
+  left: 8.09%;
+  width: 47.1%;
+  bottom: 32.37%;
+  top: 0%;
+  height: 67.63%;
+}
+.anecdotes {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-54 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1188px;
+  top: 783px;
+}
+.bouton-carr {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.icones {
+  flex-shrink: 0;
+  width: 49px;
+  height: 54px;
+  position: absolute;
+  left: 29px;
+  top: 27px;
+  overflow: visible;
+}
+.propos {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: relative;
+  width: 186px;
+  height: 48px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}

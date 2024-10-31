@@ -1,0 +1,676 @@
+.objets,
+.objets * {
+  box-sizing: border-box;
+}
+.objets {
+  width: 1440px;
+  height: 6775px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 31.77083432674408%,
+    rgba(197, 102, 255, 0.2) 60.9375%,
+    rgba(197, 102, 255, 0.5) 78.64583134651184%,
+    rgba(197, 102, 255, 0.5) 100%
+  );
+  width: 1440px;
+  position: absolute;
+  left: calc(50% - 720px);
+  bottom: 0px;
+  top: 0px;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bouton-rectangle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 211px);
+  bottom: 63px;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 421px;
+  height: 109px;
+  position: relative;
+  overflow: visible;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-42 {
+  flex-shrink: 0;
+  width: 384px;
+  height: 72px;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  overflow: visible;
+}
+.retour {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  width: 384px;
+  height: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 113px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1243px;
+  position: absolute;
+  left: 98px;
+  top: 377px;
+}
+.transfotm {
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1028px;
+  position: relative;
+}
+.titre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.corps {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: relative;
+  width: 903px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.corps-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+}
+.corps-span3 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.corps-span4 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+}
+.basique {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.peros {
+  flex-shrink: 0;
+  width: 296px;
+  height: 375px;
+  position: relative;
+}
+.smbw-mario-jump-webp-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.texte {
+  flex-shrink: 0;
+  width: 130px;
+  height: 48px;
+  position: relative;
+}
+.titre-2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -43.85%;
+  left: -43.85%;
+  width: 187.69%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.lorsque-petit-mario-prend-un-super-champignon-il-se-transforme-en-super-mario-il-peut-casser-des-bloc-de-briques-en-sautant-et-est-prot-g-d-une-attaque-ennemie {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets2 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 207.89px;
+  position: relative;
+}
+.nsmbu-mushroom-artwork-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.feu {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations {
+  flex-shrink: 0;
+  width: 579px;
+  height: 372px;
+  position: relative;
+}
+.mario-feu {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-22 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -47.69%;
+  left: -47.69%;
+  width: 195.38%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.en-prenant-une-fleur-de-feu-mario-se-transforme-en-mario-de-feu-il-peut-alors-lancer-des-boules-de-feu-sur-les-ennemis-afin-d-en-venir-bout-plus-facilement-il-peut-en-lancer-jusqu-deux-la-fois-s-il-prend-un-d-g-t-il-redeviendra-super-mario {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets3 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 214.57px;
+  position: relative;
+}
+.new-super-mario-bros-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.elephat {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations2 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 375px;
+  position: relative;
+}
+.mario-elephant {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-23 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.la-pomme-l-phant-est-un-fruit-venant-du-royaume-des-fleurs-elle-permet-de-se-transformer-en-l-phant-utilisez-votre-trompe-pour-assommer-les-nemis-ou-encore-pour-aspirer-de-l-eau-et-clabousser-ces-derniers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets4 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 169.8px;
+  position: relative;
+}
+.smbw-elephant-fruit-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.bulles {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations3 {
+  flex-shrink: 0;
+  width: 463px;
+  height: 382px;
+  position: relative;
+}
+.mario-bulles {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.la-fleur-bulles-est-une-tr-s-belles-fleur-aux-couleurs-rose-et-violet-elle-permet-mario-et-ses-amis-de-lancer-des-bulles-en-les-soufflant-avec-leur-bouche-celle-ci-peuvent-emprisonner-des-ennemis-ou-tre-utilis-es-comme-plateformes-temporaires {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets5 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 220.75px;
+  position: relative;
+}
+.smbw-bubble-flower-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.foreuse {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations4 {
+  flex-shrink: 0;
+  width: 259px;
+  height: 329px;
+  position: relative;
+}
+.mario-foreuse {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.le-champignon-foreuse-est-un-objet-unique-en-son-genre-il-transforme-celui-qui-le-prend-en-lui-donnant-la-capacit-de-creuser-dans-le-sol-ou-les-plafonds-afin-de-se-d-placer-en-vitant-de-nombreux-obstacles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets6 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 207.8px;
+  position: relative;
+}
+.smbw-drill-mushroom-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.etoile {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations5 {
+  flex-shrink: 0;
+  width: 404px;
+  height: 314px;
+  position: relative;
+}
+.mario-toile {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.en-utilisant-une-super-toile-mario-se-transforme-en-arc-en-ciel-et-devient-invincible-pendant-un-court-instant-apr-s-ce-laps-de-temps-tout-redevient-comme-avant {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.objets7 {
+  flex-shrink: 0;
+  width: 210px;
+  height: 200.08px;
+  position: relative;
+}
+.nsmbu-super-star-artwork-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.wonder {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations6 {
+  flex-shrink: 0;
+  width: 222px;
+  height: 386px;
+  position: relative;
+}
+.mario-wonder {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.la-fleur-prodige-est-la-sp-cialit-du-royaume-elle-est-utilis-e-par-le-prince-florian-pour-maintenir-l-quilibre-dans-le-royaume-elle-poss-de-des-pouvoirs-magiques-vari-s {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.blob {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformations7 {
+  flex-shrink: 0;
+  width: 367px;
+  height: 352px;
+  position: relative;
+}
+.smbw-blob-wonder-effect-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.un-des-nombreux-effets-de-la-fleur-prodige-est-de-transformer-mario-en-gel-e-sous-cette-forme-il-peut-se-marcher-sur-les-murs-et-plafond-il-peut-aussi-traverser-des-blocs-de-gel-e {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}

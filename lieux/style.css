@@ -1,0 +1,705 @@
+.lieux,
+.lieux * {
+  box-sizing: border-box;
+}
+.lieux {
+  width: 1440px;
+  height: 6775px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  width: 1440px;
+  height: auto;
+  position: absolute;
+  left: calc(50% - 720px);
+  bottom: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bouton-rectangle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 211px);
+  bottom: 63px;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 421px;
+  height: 109px;
+  position: relative;
+  overflow: visible;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-42 {
+  flex-shrink: 0;
+  width: 384px;
+  height: 72px;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  overflow: visible;
+}
+.retour {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  width: 384px;
+  height: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1243px;
+  position: absolute;
+  left: 98px;
+  top: 377px;
+}
+.carte {
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-flower-kingdom-map-2 {
+  flex-shrink: 0;
+  width: 1000.16px;
+  height: 562.7px;
+  position: relative;
+}
+.smbw-flower-kingdom-map-1 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 5px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.royaume-des-fleurs {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.corps {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: relative;
+  width: 903px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.pour-d-autres-informations-sur-le-royaume-des-fleurs-consultez-le-mario-w-iki-lien {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  position: relative;
+  width: 903px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.pour-d-autres-informations-sur-le-royaume-des-fleurs-consultez-le-mario-w-iki-lien-span {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+}
+.pour-d-autres-informations-sur-le-royaume-des-fleurs-consultez-le-mario-w-iki-lien-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.pour-d-autres-informations-sur-le-royaume-des-fleurs-consultez-le-mario-w-iki-lien-span3 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+}
+.m-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.lieux2 {
+  flex-shrink: 0;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+.smbw-icon-pipe-rock-plateau-2 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.texte {
+  flex-shrink: 0;
+  width: 130px;
+  height: 48px;
+  position: relative;
+}
+.titre-2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -114.62%;
+  left: -113.85%;
+  width: 328.46%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.la-plaine-des-tuyaux-est-un-plateau-montagneux-de-roches-hexagonales-ressemblant-des-tuyaux-au-sud-du-continent-se-trouve-une-petite-le {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.m-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-fluff-puff-peaks-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-22 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -94.62%;
+  left: -93.85%;
+  width: 288.46%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.le-mont-n-buleux-est-constitu-d-une-grande-zone-de-nuages-rose-vif-qui-se-trouvent-au-sommet-d-une-montagne-courte-et-glac-e {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.m-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-shining-falls-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-23 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -90.77%;
+  left: -90.77%;
+  width: 281.54%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.la-zone-des-chutes-dor-es-est-un-paysage-polygonal-sombre-de-grandes-structures-octa-driques-flottent-dans-le-ciel-et-certaines-d-entre-elles-versent-des-cascades-dor-es-dans-le-paysage-en-dessous {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.m-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-sunbaked-desert-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-24 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -94.62%;
+  left: -94.62%;
+  width: 289.23%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.le-d-sert-cuisant-est-un-d-sert-aride-de-sable-blanc-le-monde-contient-un-puzzle-o-le-joueur-doit-se-tenir-sur-trois-boutons-avec-des-symboles-pour-ouvrir-une-porte {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.m-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-fungi-mines-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-25 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -106.92%;
+  left: -106.92%;
+  width: 313.85%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.les-mines-fongiques-se-trouvent-dans-une-for-t-de-champignons-avec-un-syst-me-de-grottes-souterraines-o-l-on-peut-trouver-des-temples-en-ruines {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.m-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-deep-magma-bog-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-26 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -91.54%;
+  left: -91.54%;
+  width: 283.08%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.le-volcan-v-g-tal-est-une-caverne-volcanique-remplie-de-magma-et-envahie-par-le-lierre-la-grotte-contient-plusieurs-chemins-divis-s-dont-certains-sont-bloqu-s-par-des-rochers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.ile {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-petal-isles-2 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-27 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -39.23%;
+  left: -39.23%;
+  width: 178.46%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.les-les-florales-sont-un-petit-archipel-au-centre-du-royaume-des-fleurs-comprenant-de-nombreuses-les-de-couleurs-et-de-climats-diff-rents-le-ch-teau-de-bowser-plane-au-dessus-du-centre-des-les-l-archipel-sert-de-monde-principal-connect-aux-six-mondes-num-rot-s-du-jeu-qui-l-entourent-et-pr-sente-ses-propres-niveaux-y-compris-sous-marins-et-souterrains {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.sp {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.smbw-icon-special-world-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-28 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -63.85%;
+  left: -63.08%;
+  width: 226.92%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.le-monde-sp-cial-est-un-monde-bonus-secret-con-u-pour-tester-les-comp-tences-du-joueur-c-est-le-seul-monde-du-jeu-qui-ne-contient-pas-de-graine-royale-et-qui-n-est-pas-requis-pour-terminer-le-jeu-il-est-situ-dans-le-ciel-et-est-compos-de-plusieurs-plates-formes-flottantes-en-forme-de-fleur {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.histoire {
+  display: flex;
+  flex-direction: column;
+  gap: 91px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1242px;
+  position: relative;
+}
+.texte2 {
+  flex-shrink: 0;
+  width: 576px;
+  height: 73px;
+  position: relative;
+}
+.titre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  position: absolute;
+  right: -0.17%;
+  left: 0%;
+  width: 100.17%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.le-royaume-des-fleurs-est-dirig-par-le-prince-florian-une-chenille-verte-avec-une-fleur-sur-la-t-te-il-est-tr-s-proche-de-ses-sujets-et-souhaite-leur-bien-son-royaume-est-peupl-de-poplins-des-cr-atures-avec-des-bulbes-de-fleurs-en-guise-de-chapeau-mais-aussi-de-fleurs-cancan-ce-sont-des-fleurs-jaune-oranges-qui-parlent-le-royaume-des-fleurs-est-situ-tr-s-proche-du-royaume-champignon-le-royaume-dans-lequel-vit-mario-ils-s-agit-m-me-de-deux-contr-es-voisines-une-mer-s-pare-ces-deux-royaumes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1242px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}

@@ -1,0 +1,554 @@
+.persos,
+.persos * {
+  box-sizing: border-box;
+}
+.persos {
+  width: 1440px;
+  height: 4210px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 31.77083432674408%,
+    rgba(73, 179, 255, 0.2) 60.9375%,
+    rgba(73, 179, 255, 0.5) 78.64583134651184%,
+    rgba(73, 179, 255, 0.5) 100%
+  );
+  width: 1440px;
+  position: absolute;
+  left: calc(50% - 720px);
+  bottom: 0px;
+  top: 0px;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bouton-rectangle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 211px);
+  bottom: 63px;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 421px;
+  height: 109px;
+  position: relative;
+  overflow: visible;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-42 {
+  flex-shrink: 0;
+  width: 384px;
+  height: 72px;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  overflow: visible;
+}
+.retour {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  width: 384px;
+  height: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 113px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1243px;
+  position: absolute;
+  left: 98px;
+  top: 510px;
+}
+.mario {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.personnages {
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+.mario-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.texte {
+  flex-shrink: 0;
+  width: 130px;
+  height: 48px;
+  position: relative;
+}
+.titre-2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: 5.38%;
+  left: 5.38%;
+  width: 89.23%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.mario-travaille-comme-plombier-avec-son-petit-fr-re-luigi-il-est-toujours-pr-t-aider {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.luigi {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.luigi-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-22 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: 11.54%;
+  left: 12.31%;
+  width: 76.15%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.bien-qu-ils-soient-des-fr-res-jumeaux-luigi-est-plus-grand-et-un-peu-plus-jeune-que-mario {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.peach-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-23 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: 2.31%;
+  left: 2.31%;
+  width: 95.38%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.la-princesse-du-royaume-champignon-elle-souhaite-toujours-le-bonheur-de-tous {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.daisy-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-24 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: 6.15%;
+  left: 6.92%;
+  width: 86.92%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.daisy-est-la-princesse-de-sarasaland-elle-est-toujours-enjou-e-joyeuse-et-vive {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.toad-blue-char-select-smbw-1 {
+  position: absolute;
+  right: 2.33%;
+  left: 35%;
+  width: 62.67%;
+  bottom: 9%;
+  top: -9%;
+  height: 100%;
+}
+.toad-yellow-char-select-smbw-1 {
+  position: absolute;
+  right: 40.33%;
+  left: 0%;
+  width: 59.67%;
+  bottom: -11%;
+  top: 11%;
+  height: 100%;
+}
+.les-toads-sont-des-r-sidents-du-royaume-champignon-et-les-champignons-sont-leur-t-tes-pas-de-grands-chapeaux {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.toadette-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-25 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -19.23%;
+  left: -19.23%;
+  width: 138.46%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.toadette-est-une-habitante-du-royaume-champignon-elle-poss-de-deux-tresses-roses-magnifiques {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.personnages2 {
+  flex-shrink: 0;
+  width: 648px;
+  height: 401px;
+  position: relative;
+}
+.yoshi-red-char-select-smbw-1 {
+  position: absolute;
+  right: 38.43%;
+  left: 15.28%;
+  width: 46.3%;
+  bottom: 20.2%;
+  top: 4.99%;
+  height: 74.81%;
+}
+.yoshi-green-char-select-smbw-1 {
+  position: absolute;
+  right: 53.7%;
+  left: 0%;
+  width: 46.3%;
+  bottom: 0%;
+  top: 25.19%;
+  height: 74.81%;
+}
+.yoshi-light-blue-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 53.7%;
+  width: 46.3%;
+  bottom: 25.19%;
+  top: 0%;
+  height: 74.81%;
+}
+.yoshi-yellow-char-select-smbw-1 {
+  position: absolute;
+  right: 23.15%;
+  left: 30.56%;
+  width: 46.3%;
+  bottom: 0%;
+  top: 25.19%;
+  height: 74.81%;
+}
+.titre-26 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: 6.92%;
+  left: 6.92%;
+  width: 86.15%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.les-yoshis-sont-tous-extr-mement-d-tendus-ils-laissent-m-me-mario-et-ses-amis-monter-sur-eux {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.nabbit-char-select-smbw-1 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.titre-27 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  right: -13.85%;
+  left: -13.85%;
+  width: 127.69%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.carottin-n-est-pas-vraiment-un-ennemi-ou-un-alli-mais-juste-quelqu-un-qui-garde-un-il-sur-mario-et-ses-amis {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 482px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}

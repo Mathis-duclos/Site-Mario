@@ -1,0 +1,331 @@
+.a-propos,
+.a-propos * {
+  box-sizing: border-box;
+}
+.a-propos {
+  width: 1440px;
+  height: 3775px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 31.77083432674408%,
+    rgba(255, 252, 188, 0.2) 60.9375%,
+    rgba(255, 252, 188, 0.5) 78.64583134651184%,
+    rgba(255, 252, 188, 0.5) 100%
+  );
+  width: 1440px;
+  position: absolute;
+  left: calc(50% - 720px);
+  bottom: 0px;
+  top: 0px;
+}
+.d-co-de-page {
+  width: 1597.39px;
+  height: 574.72px;
+  position: absolute;
+  left: calc(50% - 833px);
+  bottom: -388.72px;
+}
+.rectangle-11 {
+  background: #000000;
+  position: absolute;
+  right: 2.03%;
+  left: 0%;
+  width: 97.97%;
+  bottom: -0.29%;
+  top: 23.73%;
+  height: 76.56%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.d-co-de-page2 {
+  width: 1623.4px;
+  height: 574.72px;
+  position: absolute;
+  left: -139px;
+  top: -299px;
+}
+.d-co-de-page3 {
+  position: absolute;
+  right: 1.6%;
+  left: 0%;
+  width: 98.4%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.d-co-de-page4 {
+  position: absolute;
+  right: -0.11%;
+  left: 1.11%;
+  width: 99%;
+  bottom: 4.82%;
+  top: 86.49%;
+  height: 8.69%;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.rectangle-12 {
+  background: #0066ff;
+  position: absolute;
+  right: 0.18%;
+  left: 0%;
+  width: 99.82%;
+  bottom: 79.99%;
+  top: 0%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-13 {
+  background: #de1818;
+  position: absolute;
+  right: 0.09%;
+  left: 0.09%;
+  width: 99.82%;
+  bottom: 39.99%;
+  top: 39.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-14 {
+  background: #ffe500;
+  position: absolute;
+  right: 0%;
+  left: 0.18%;
+  width: 99.82%;
+  bottom: 0%;
+  top: 79.99%;
+  height: 20.01%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.bouton-rectangle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 211px);
+  bottom: 63px;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 421px;
+  height: 109px;
+  position: relative;
+  overflow: visible;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 97px;
+  position: absolute;
+  right: 1.43%;
+  left: 1.43%;
+  width: 97.15%;
+  bottom: 5.5%;
+  top: 5.5%;
+  height: 88.99%;
+  overflow: visible;
+}
+.rectangle-42 {
+  flex-shrink: 0;
+  width: 384px;
+  height: 72px;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  overflow: visible;
+}
+.retour {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.46%;
+  left: 3.33%;
+  width: 91.21%;
+  bottom: 21.1%;
+  top: 12.84%;
+  height: 66.06%;
+  width: 384px;
+  height: 72px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 113px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1311px;
+  position: absolute;
+  left: 64px;
+  top: 377px;
+}
+.titre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.l-ensembles-des-informations-utilis-es-sur-ce-site-sont-issues-du-super-mario-wiki-traduites-en-fran-ais-l-ensemble-des-images-utilis-es-sur-le-site-viennent-du-super-mario-wiki-un-site-r-pertoriant-des-informations-sur-la-licence-mario-le-contenu-est-libre-de-droit-d-autres-viennent-du-site-the-spriters-resource-r-pertoriant-de-nombreuses-images-et-sprites-de-diff-rents-jeux {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1247px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1227px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span3 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span4 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span5 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span6 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span7 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span8 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span9 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.site-officiel-de-nintendo-lien-portail-super-mario-de-nintendo-lien-le-super-mario-wiki-lien-the-spriters-resource-lien-wikip-dia-mario-lien-span10 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.vous-pouvez-me-contactez-par-mail-mathis-duclos-icloud-com-t-l-phone-06-oo-oo-oo-oo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1227px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.vous-pouvez-me-contactez-par-mail-mathis-duclos-icloud-com-t-l-phone-06-oo-oo-oo-oo-span {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.vous-pouvez-me-contactez-par-mail-mathis-duclos-icloud-com-t-l-phone-06-oo-oo-oo-oo-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.ce-site-a-t-cr-dans-le-cadre-d-un-projet-de-nsi-il-ne-sera-jamais-publi-en-ligne-mais-dans-le-doute-si-un-jour-je-le-publie-ici-se-trouveront-toutes-les-infos-qu-il-faut-l-galement-mettre-sur-un-site-n-utilisez-pas-adblock-je-veux-de-l-argent-les-sources-des-informations-et-images-utilis-es-se-trouvent-sur-la-page-d-di-e-les-personnages-de-l-univers-mario-appartiennent-nintendo-selon-les-lois-de-la-propri-t-priv-en-utilisant-ce-produit-vous-acceptez-les-conditions-g-n-rales-d-utilisation-ici {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: relative;
+  width: 1269px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
